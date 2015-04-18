@@ -1,0 +1,43 @@
+
+CSE237B Spring 2015 
+Lab 0 Dining Philosophers Problem Using Google Go 
+
+This directory contains
+hao_dining.go :   source code 
+README	      :   README document	    
+log.txt       :   Sample output (6 philosophers) 
+
+
+
+
+================================================================================
+Usage:
+================================================================================
+> go run hao_dining.go 
+
+
+================================================================================
+Algorithm/Procedure: 
+================================================================================
+Then input the number of philosophers you want, but it should be an integer larger than 1, e.g., 10
+
+The methodology is similar to "Resource hierachy solution" at http://en.wikipedia.org/wiki/Dining_philosophers_problem 
+Philosophers have their own id and the maximum id (maxid), which is the number of philosophers in the table. 
+1) The philosophers with id smaller than maxid always pick his/her left fork. Then check the right fork. 
+       If the right fork is not available, the left fork will be returned and continue to think (another round). 
+       Otherwise, the right fork will be picked and this philosopher will start to eat. After eating, the forks will be returened and continue to another round.  
+2) The philosophers with maxid always pick his/her right fork. Then check the left fork. Other procedure is almost the same.  
+
+
+
+
+================================================================================
+By 
+
+Hao Zhuang
+email: hao.zhuang@cs.ucsd.edu
+Computer Science and Engineering Department 
+University of California, San Diego, CA
+April 2015 
+================================================================================
+
