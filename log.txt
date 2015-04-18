@@ -1,0 +1,1103 @@
+Input the number of Philosophers
+------------Preparations----------------------
+There will be  6 Philosophers
+Create Philosopher 1  done
+Create Philosopher 2  done
+Create Philosopher 3  done
+Create Philosopher 4  done
+Create Philosopher 5  done
+Create Philosopher 6  done
+Connecting Philosopher 1  with right neighbor is Philosopher 1
+Connecting Philosopher 2  with right neighbor is Philosopher 2
+Connecting Philosopher 3  with right neighbor is Philosopher 3
+Connecting Philosopher 4  with right neighbor is Philosopher 4
+Connecting Philosopher 5  with right neighbor is Philosopher 5
+Connecting a philosopher  1 with right neighbor is  6
+------------ Finish connecting and start to dining----------------------
+Launch Philosopher 1 to start dining
+Launch Philosopher 2 to start dining
+Launch Philosopher 3 to start dining
+Launch Philosopher 4 to start dining
+Launch Philosopher 5 to start dining
+Launch Philosopher 6 to start dining
+------------ Dining----------------------
+Philosopher 1 is thinking.
+Philosopher 2 is thinking.
+Philosopher 3 is thinking.
+Philosopher 4 is thinking.
+Philosopher 5 is thinking.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 6 is thinking.
+Philosopher 4 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 2 picks the forks.
+Philosopher 6 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 1 is thinking.
+Philosopher 2 is eating.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 3 picks the forks.
+Philosopher 6 picks the forks.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 3 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 is eating.
+Philosopher 5 is eating.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 3 picks the forks.
+Philosopher 1 is eating.
+Philosopher 2 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 3 is eating.
+Philosopher 5 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 5 is eating.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 4 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 picks the forks.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 is eating.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 2 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 picks the forks.
+Philosopher 2 is eating.
+Philosopher 3 picks the forks.
+Philosopher 4 is eating.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 2 is eating.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 5 is eating.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 4 is eating.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 3 is eating.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 3 picks the forks.
+Philosopher 6 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 4 is eating.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 6 is eating.
+Philosopher 3 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 picks the forks.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 5 is eating.
+Philosopher 1 is eating.
+Philosopher 2 picks the forks.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 picks the forks.
+Philosopher 2 is eating.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 is eating.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 2 picks the forks.
+Philosopher 5 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 is eating.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 picks the forks.
+Philosopher 5 is eating.
+Philosopher 3 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 6 picks the forks.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 2 is eating.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 is eating.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 5 is eating.
+Philosopher 3 is eating.
+Philosopher 4 picks the forks.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 2 is eating.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 is eating.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 is eating.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 is eating.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 5 is eating.
+Philosopher 3 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 3 is eating.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 4 is eating.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 2 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 3 picks the forks.
+Philosopher 6 picks the forks.
+Philosopher 2 is eating.
+Philosopher 4 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 3 is eating.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 1 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 3 picks the forks.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 2 is eating.
+Philosopher 6 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 3 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 4 picks the forks.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 3 is eating.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 5 is eating.
+Philosopher 3 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 2 is eating.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 1 picks the forks.
+Philosopher 3 is eating.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 is eating.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 5 is eating.
+Philosopher 3 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 2 is eating.
+Philosopher 4 is eating.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 4 is eating.
+Philosopher 6 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 5 is eating.
+Philosopher 1 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 2 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 3 is eating.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 is eating.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 2 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 3 is eating.
+Philosopher 2 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 2 is eating.
+Philosopher 3 picks the forks.
+Philosopher 4 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 is eating.
+Philosopher 2 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 4 is eating.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 2 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 4 is eating.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 2 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 2 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 3 is eating.
+Philosopher 4 picks the forks.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 1 picks the forks.
+Philosopher 3 is eating.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 4 picks the forks.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 5 is eating.
+Philosopher 3 is eating.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 5 is eating.
+Philosopher 2 picks the forks.
+Philosopher 4 picks the forks.
+Philosopher 3 is eating.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 2 is eating.
+Philosopher 4 is eating.
+Philosopher 3 picks the forks.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
+Philosopher 2 puts down the forks.
+Philosopher 2 is thinking.
+Philosopher 6 is eating.
+Philosopher 6 puts down the forks.
+Philosopher 6 is thinking.
+Philosopher 1 picks the forks.
+Philosopher 3 is eating.
+Philosopher 4 picks the forks.
+Philosopher 2 picks the forks.
+Philosopher 3 puts down the forks.
+Philosopher 3 is thinking.
+Philosopher 5 is eating.
+Philosopher 5 puts down the forks.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 puts down the forks.
+Philosopher 1 is thinking.
+Philosopher 6 picks the forks.
+Philosopher 3 picks the forks.
+Philosopher 4 is eating.
+Philosopher 2 is eating.
+Philosopher 5 picks the forks.
+Philosopher 4 puts down the forks.
+Philosopher 4 is thinking.
